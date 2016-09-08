@@ -1,5 +1,8 @@
 package actors;
 
+/**
+ * @author Leboc Philippe
+ */
 public class GuerrierElfe extends Character
 {
     public GuerrierElfe() {

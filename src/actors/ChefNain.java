@@ -1,5 +1,8 @@
 package actors;
 
+/**
+ * @author Leboc Philippe
+ */
 public class ChefNain extends GuerrierNain {
 
     public ChefNain() {

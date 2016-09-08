@@ -1,5 +1,8 @@
 package enums;
 
+/**
+ * @author Leboc Philippe
+ */
 public enum TeamColor {
     RED("Rouge"),
     BLUE("Bleu");

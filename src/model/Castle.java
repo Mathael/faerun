@@ -5,6 +5,9 @@ import enums.TeamColor;
 
 import java.util.ArrayList;
 
+/**
+ * @author Leboc Philippe
+ */
 public final class Castle {
 
     private int resources;

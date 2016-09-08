@@ -5,6 +5,9 @@ import enums.SystemColor;
 
 import java.util.ArrayList;
 
+/**
+ * @author Leboc Philippe
+ */
 public final class Case {
 
     private int number;

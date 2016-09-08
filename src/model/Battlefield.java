@@ -8,6 +8,7 @@ import utils.Util;
 import java.util.ArrayList;
 
 /**
+ * @author Leboc Philippe
  * Il s'agit du plateau du jeu.
  * Cette classe sert spécifiquement à faire en sorte que le jeu se déroule pas à pas en suivant les différentes phases.
  * Elle contient toutes les cases du plateau ainsi que les deux chateaux. Elle à donc accès à l'intégralité du jeu.

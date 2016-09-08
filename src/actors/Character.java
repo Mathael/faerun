@@ -3,6 +3,9 @@ package actors;
 import interfaces.Soldier;
 import utils.Util;
 
+/**
+ * @author Leboc Philippe
+ */
 public abstract class Character implements Soldier {
 
     private String name;
